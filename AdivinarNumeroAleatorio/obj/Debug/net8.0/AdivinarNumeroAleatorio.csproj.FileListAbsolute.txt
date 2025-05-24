@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\bin\Debug\net8.0\AdivinarNumeroAleatorio.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\bin\Debug\net8.0\AdivinarNumeroAleatorio.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\bin\Debug\net8.0\AdivinarNumeroAleatorio.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\bin\Debug\net8.0\AdivinarNumeroAleatorio.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\bin\Debug\net8.0\AdivinarNumeroAleatorio.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\refint\AdivinarNumeroAleatorio.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\AdivinarNumeroAleatorio.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\AdivinarNumeroAleatorio\obj\Debug\net8.0\ref\AdivinarNumeroAleatorio.dll
