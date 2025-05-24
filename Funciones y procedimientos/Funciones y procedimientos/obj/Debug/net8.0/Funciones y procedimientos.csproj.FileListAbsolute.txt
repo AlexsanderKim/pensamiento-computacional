@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\bin\Debug\net8.0\Funciones y procedimientos.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\bin\Debug\net8.0\Funciones y procedimientos.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\bin\Debug\net8.0\Funciones y procedimientos.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\bin\Debug\net8.0\Funciones y procedimientos.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\bin\Debug\net8.0\Funciones y procedimientos.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\refint\Funciones y procedimientos.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\Funciones y procedimientos.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Funciones y procedimientos\Funciones y procedimientos\obj\Debug\net8.0\ref\Funciones y procedimientos.dll
