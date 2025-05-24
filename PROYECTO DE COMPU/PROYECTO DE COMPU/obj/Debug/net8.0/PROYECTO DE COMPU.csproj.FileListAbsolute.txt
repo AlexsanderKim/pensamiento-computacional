@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\bin\Debug\net8.0\PROYECTO DE COMPU.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\bin\Debug\net8.0\PROYECTO DE COMPU.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\bin\Debug\net8.0\PROYECTO DE COMPU.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\bin\Debug\net8.0\PROYECTO DE COMPU.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\bin\Debug\net8.0\PROYECTO DE COMPU.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\refint\PROYECTO DE COMPU.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\PROYECTO DE COMPU.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\PROYECTO DE COMPU\PROYECTO DE COMPU\obj\Debug\net8.0\ref\PROYECTO DE COMPU.dll
