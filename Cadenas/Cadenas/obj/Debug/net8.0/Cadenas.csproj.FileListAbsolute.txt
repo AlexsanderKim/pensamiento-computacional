@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\bin\Debug\net8.0\Cadenas.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\bin\Debug\net8.0\Cadenas.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\bin\Debug\net8.0\Cadenas.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\bin\Debug\net8.0\Cadenas.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\bin\Debug\net8.0\Cadenas.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\refint\Cadenas.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\Cadenas.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Cadenas\Cadenas\obj\Debug\net8.0\ref\Cadenas.dll
