@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\bin\Debug\net8.0\Ejercicio DO WHILE y FOR.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\bin\Debug\net8.0\Ejercicio DO WHILE y FOR.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\bin\Debug\net8.0\Ejercicio DO WHILE y FOR.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\bin\Debug\net8.0\Ejercicio DO WHILE y FOR.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\bin\Debug\net8.0\Ejercicio DO WHILE y FOR.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\refint\Ejercicio DO WHILE y FOR.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\Ejercicio DO WHILE y FOR.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Ejercicio DO WHILE y FOR\Ejercicio DO WHILE y FOR\obj\Debug\net8.0\ref\Ejercicio DO WHILE y FOR.dll
