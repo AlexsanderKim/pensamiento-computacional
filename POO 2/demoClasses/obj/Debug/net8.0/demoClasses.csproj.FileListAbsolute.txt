@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\bin\Debug\net8.0\demoClasses.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\bin\Debug\net8.0\demoClasses.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\bin\Debug\net8.0\demoClasses.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\bin\Debug\net8.0\demoClasses.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\bin\Debug\net8.0\demoClasses.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\refint\demoClasses.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\demoClasses.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\POO 2\demoClasses\obj\Debug\net8.0\ref\demoClasses.dll
