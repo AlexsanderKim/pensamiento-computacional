@@ -1,0 +1,14 @@
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\bin\Debug\net8.0\ejemplos y ejercicios de arreglos 14.exe
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\bin\Debug\net8.0\ejemplos y ejercicios de arreglos 14.deps.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\bin\Debug\net8.0\ejemplos y ejercicios de arreglos 14.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\bin\Debug\net8.0\ejemplos y ejercicios de arreglos 14.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\bin\Debug\net8.0\ejemplos y ejercicios de arreglos 14.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\refint\ejemplos y ejercicios de arreglos 14.dll
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.pdb
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ejemplos y ejercicios de arreglos 14.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Visual\Arreglos\ejemplos y ejercicios de arreglos 14\obj\Debug\net8.0\ref\ejemplos y ejercicios de arreglos 14.dll
